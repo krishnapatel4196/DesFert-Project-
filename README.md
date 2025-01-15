@@ -10,4 +10,4 @@ Precipitation data file
 2.	Extract Data from Excel files
 •	For this I created two separate files which is using python (Pandas) for the data extraction.
 •	To use pandas, you have to download Jupiter notebook and pandas
-• exceldataextraction_precipitation.ipynb and precipitation.ipynb files will extract data from the precipitation files.
+• 	exceldataextraction_precipitation.ipynb and precipitation.ipynb files will extract data from the precipitation files.
